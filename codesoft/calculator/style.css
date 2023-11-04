@@ -1,0 +1,19 @@
+body{
+    padding: 20px 30px;
+  box-sizing: border-box;
+    height: max-content;
+    width: fit-content;
+    border-radius: 10%;
+    border-style: double;
+   color: rgb(24, 142, 85);
+}
+button{
+    margin-top: 5px;
+    font-size: xx-large;
+    width: 75px;
+  background-color: rgb(206, 175, 61);  
+}
+input{
+  
+   padding: 10px 70px;
+}
